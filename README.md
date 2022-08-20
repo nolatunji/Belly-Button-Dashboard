@@ -19,4 +19,5 @@ The final interactive dashboard can be viewed at https://nolatunji.github.io/Bel
 * Javascript
 * HTML
 * JSON
+* CSS
 
