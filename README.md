@@ -12,7 +12,7 @@ The final interactive dashboard can be viewed at https://nolatunji.github.io/Bel
 
 ![Dashboard Screenshot](https://user-images.githubusercontent.com/96552268/172240837-202ed856-1df9-4dbb-bad4-93f3ed527759.png)
 
-##Tools
+## Tools
 
 * Plotly
 * D3.js
